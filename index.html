@@ -19,6 +19,18 @@
             <!-- Games will appear here -->
         </div>
     </div>
+    <!-- Paste your code block here -->
+    <div class="container py-5">
+        <pre><code>
+from fastapi import FastAPI
+
+app = FastAPI()
+
+@app.get("/games")
+def index():
+    return {"message": "Code displayed successfully"}
+        </code></pre>
+    </div>
 
     <script>
             fetch("games.json")
