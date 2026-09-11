@@ -12,5 +12,20 @@
     "download": 5000,
     "likes": 4800,
     "dislike": 150
+  },
+    {
+    "name": "GTA",
+    "price": "$50.99",
+    "download": 15000,
+    "likes": 114800,
+    "dislike": 150
+  },
+    {
+    "name": "God of War",
+    "price": "$35.99",
+    "download": 35000,
+    "likes":24800,
+    "dislike": 10
   }
+  
 ]
